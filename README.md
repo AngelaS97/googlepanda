@@ -7,11 +7,6 @@ It aimed at lowering the rank of "low Quality sites" or "thin sites" and return 
 A statement made by Google’s PR team about making Panda Google’s core ranking algorithm is as follows:
 "Panda is an algorithm that’s applied to sites overall and has become one of our core ranking signals. It measures the quality of a site, which you can read more about in our guidelines. Panda allows Google to take quality into account and adjust ranking accordingly."
 
-<html>
-<body bgcolor="ff00ff">
-<img src="panda.jpg"alt="panda" width="120" align="middle">
-</html>
-
 Over the past two years, many reputable, arguably authoritative websites have seen major Google organic ranking drops due to various Panda updates.Popular web surveys reported surge in news websites and social networking sites and drop in rankings of sites containing large amount of advertising.There have been complaints of scrapers/copywright infringers getting better ranking than sites having original content have also surfaced.
 Panda recieved several updates to help affected publishers. Google also provided an advisory on it's blog, giving some dirtrection to the owmners of websites of their site's quality.
 
